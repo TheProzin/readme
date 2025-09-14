@@ -18,7 +18,10 @@
 ## 🏅 Minhas Certificações
 
 [![Badge](https://images.credly.com/size/150x150/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/badges/0c72879e-0f4d-4bc8-9d7a-ec549a2f13cc/public_url)
+[![Badge](https://images.credly.com/size/150x150/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png)](https://www.credly.com/earner/earned/badge/957f2401-65de-4e07-a09c-d097ceccb901)
+[![Badge](https://images.credly.com/size/150x150/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png)](https://www.credly.com/earner/earned/badge/4bee7bf2-b6a5-4fff-8d8b-134d1da214b2)
 
 
 ### Veja todas as minhas conquistas
 [![Credly](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/fabio-telles-justino)
+
